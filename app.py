@@ -9,7 +9,7 @@ DEBUG=True
 PORT=8000
 app = Flask(__name__)
 
-
+app.register_blueprint(shoes, url_prefix='/api/v1/shoes')
 
 
 @app.route('/')
