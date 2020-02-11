@@ -1,0 +1,12 @@
+total 32
+drwxr-xr-x  11 abdulkhaliqafolayan  staff   352B Feb 11 16:48 .
+drwxr-xr-x  27 abdulkhaliqafolayan  staff   864B Feb 11 16:18 ..
+drwxr-xr-x   5 abdulkhaliqafolayan  staff   160B Feb 11 16:19 .env
+drwxr-xr-x  14 abdulkhaliqafolayan  staff   448B Feb 11 16:37 .git
+-rw-r--r--   1 abdulkhaliqafolayan  staff     4B Feb 11 16:28 .gitignore
+-rw-r--r--   1 abdulkhaliqafolayan  staff    10B Feb 11 16:18 README.md
+-rw-r--r--   1 abdulkhaliqafolayan  staff   201B Feb 11 16:37 app.py
+-rw-r--r--   1 abdulkhaliqafolayan  staff     0B Feb 11 16:48 models.py
+-rw-r--r--   1 abdulkhaliqafolayan  staff     0B Feb 11 16:48 output.txt
+-rw-r--r--   1 abdulkhaliqafolayan  staff   137B Feb 11 16:42 requirements.txt
+drwxr-xr-x   4 abdulkhaliqafolayan  staff   128B Feb 11 16:46 resources
